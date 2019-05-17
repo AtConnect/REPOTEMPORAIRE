@@ -9,3 +9,9 @@ EOF
 service nrpe reload
 
 
+# Comment me Lancer ?
+# cd /tmp/
+# git clone https://github.com/AtConnect/REPOTEMPORAIRE
+# chmod a+x lancermoiwazoxivo.sh && ./lancermoiwazoxivo.sh
+
+
